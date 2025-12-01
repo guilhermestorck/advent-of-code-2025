@@ -1,0 +1,17 @@
+{
+  "name": "advent-of-code-2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guilhermestorck/advent-of-code-2025.git"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.21"
+  },
+  "private": true
+}
